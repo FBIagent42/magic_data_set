@@ -1,0 +1,290 @@
+,name,manaCost,cmc,colors,colorIdentity,types,supertypes,subtypes,rarity,power,toughness,multiverseid,mana_generic,mana_colored
+237,"Andúril, Flame of the West",{3},3.0,,Colorless,['Artifact'],['Legendary'],['Equipment'],Mythic,,,617066,3,['None']
+289,"Aragorn and Arwen, Wed",{4}{G}{W},6.0,"['G', 'W']","['G', 'W']",['Creature'],['Legendary'],"['Human', 'Elf', 'Noble']",Mythic,3,6,620182,4,"['G', 'W']"
+192,"Aragorn, Company Leader",{1}{G}{W},3.0,"['G', 'W']","['G', 'W']",['Creature'],['Legendary'],"['Human', 'Ranger']",Rare,3,3,617021,1,"['G', 'W']"
+193,"Aragorn, the Uniter",{R}{G}{W}{U},4.0,"['G', 'R', 'U', 'W']","['G', 'R', 'U', 'W']",['Creature'],['Legendary'],"['Human', 'Noble']",Mythic,5,5,617022,0,"['R', 'G', 'W', 'U']"
+195,Arwen Undómiel,{G}{U},2.0,"['G', 'U']","['G', 'U']",['Creature'],['Legendary'],"['Elf', 'Noble']",Uncommon,2,2,617024,0,"['G', 'U']"
+39,Arwen's Gift,{3}{U},4.0,['U'],['U'],['Sorcery'],None,,Common,,,616869,3,['U']
+194,"Arwen, Mortal Queen",{1}{G}{W},3.0,"['G', 'W']","['G', 'W']",['Creature'],['Legendary'],"['Elf', 'Noble']",Mythic,2,2,617023,1,"['G', 'W']"
+287,Assault on Osgiliath,{X}{R}{R}{R},3.0,['R'],['R'],['Sorcery'],None,,Rare,,,620040,X,"['R', 'R', 'R']"
+154,Bag End Porter,{3}{G},4.0,['G'],['G'],['Creature'],None,['Dwarf'],Common,4,4,616983,3,['G']
+1,Banish from Edoras,{4}{W},5.0,['W'],['W'],['Sorcery'],None,,Common,,,616831,4,['W']
+255,Barad-dûr,,0.0,,['B'],['Land'],['Legendary'],,Rare,,,617083,0,['None']
+238,Barrow-Blade,{1},1.0,,Colorless,['Artifact'],None,['Equipment'],Uncommon,,,617067,1,['None']
+116,Battle-Scarred Goblin,{1}{R},2.0,['R'],['R'],['Creature'],None,"['Goblin', 'Warrior']",Common,2,2,616945,1,['R']
+41,Bewitching Leechcraft,{1}{U},2.0,['U'],['U'],['Enchantment'],None,['Aura'],Common,,,616871,1,['U']
+300,Bilbo's Ring,{3},3.0,,Colorless,['Artifact'],['Legendary'],['Equipment'],Rare,,,620111,3,['None']
+197,"Bilbo, Retired Burglar",{1}{U}{R},3.0,"['R', 'U']","['R', 'U']",['Creature'],['Legendary'],"['Halfling', 'Rogue']",Uncommon,1,3,617026,1,"['U', 'R']"
+42,"Bill Ferny, Bree Swindler",{1}{U},2.0,['U'],['U'],['Creature'],['Legendary'],"['Human', 'Rogue']",Uncommon,2,1,616872,1,['U']
+3,Bill the Pony,{3}{W},4.0,['W'],['W'],['Creature'],['Legendary'],['Horse'],Uncommon,1,4,616833,3,['W']
+43,Birthday Escape,{U},1.0,['U'],['U'],['Sorcery'],None,,Common,,,616873,0,['U']
+77,Bitter Downfall,{3}{B},4.0,['B'],['B'],['Instant'],None,,Uncommon,,,616907,3,['B']
+155,Bombadil's Song,{1}{G},2.0,['G'],['G'],['Instant'],None,,Common,,,616984,1,['G']
+117,Book of Mazarbul,{2}{R},3.0,['R'],['R'],['Enchantment'],None,['Saga'],Uncommon,,,616946,2,['R']
+44,Borne Upon a Wind,{1}{U},2.0,['U'],['U'],['Instant'],None,,Rare,,,616874,1,['U']
+4,"Boromir, Warden of the Tower",{2}{W},3.0,['W'],['W'],['Creature'],['Legendary'],"['Human', 'Soldier']",Rare,3,3,616834,2,['W']
+156,Brandywine Farmer,{2}{G},3.0,['G'],['G'],['Creature'],None,"['Halfling', 'Peasant']",Common,1,1,616985,2,['G']
+118,Breaking of the Fellowship,{1}{R},2.0,['R'],['R'],['Sorcery'],None,,Common,,,616947,1,['R']
+198,"Butterbur, Bree Innkeeper",{2}{G}{W},4.0,"['G', 'W']","['G', 'W']",['Creature'],['Legendary'],"['Human', 'Peasant']",Uncommon,3,3,617027,2,"['G', 'W']"
+79,Call of the Ring,{1}{B},2.0,['B'],['B'],['Enchantment'],None,,Rare,,,616909,1,['B']
+45,Captain of Umbar,{2}{U},3.0,['U'],['U'],['Creature'],None,"['Human', 'Pirate']",Common,2,3,616875,2,['U']
+119,Cast into the Fire,{1}{R},2.0,['R'],['R'],['Instant'],None,,Common,,,616948,1,['R']
+157,Celeborn the Wise,{3}{G},4.0,['G'],['G'],['Creature'],['Legendary'],"['Elf', 'Noble']",Uncommon,3,3,616986,3,['G']
+158,Chance-Met Elves,{2}{G},3.0,['G'],['G'],['Creature'],None,"['Elf', 'Warrior']",Common,3,2,616987,2,['G']
+80,Cirith Ungol Patrol,{4}{B},5.0,['B'],['B'],['Creature'],None,"['Orc', 'Soldier']",Common,4,5,616910,4,['B']
+81,Claim the Precious,{1}{B}{B},3.0,['B'],['B'],['Sorcery'],None,,Common,,,616911,1,"['B', 'B']"
+46,Council's Deliberation,{1}{U},2.0,['U'],['U'],['Instant'],None,,Uncommon,,,616876,1,['U']
+5,Dawn of a New Age,{1}{W},2.0,['W'],['W'],['Enchantment'],None,,Mythic,,,616835,1,['W']
+47,Deceive the Messenger,{U},1.0,['U'],['U'],['Instant'],None,,Common,,,616877,0,['U']
+159,Delighted Halfling,{G},1.0,['G'],['G'],['Creature'],None,"['Halfling', 'Citizen']",Rare,1,2,616988,0,['G']
+199,"Denethor, Ruling Steward",{1}{W}{B},3.0,"['B', 'W']","['B', 'W']",['Creature'],['Legendary'],"['Human', 'Noble']",Uncommon,2,4,617028,1,"['W', 'B']"
+120,Display of Power,{1}{R}{R},3.0,['R'],['R'],['Instant'],None,,Rare,,,616949,1,"['R', 'R']"
+200,Doors of Durin,{3}{R}{G},5.0,"['G', 'R']","['G', 'R']",['Artifact'],['Legendary'],,Rare,,,617029,3,"['R', 'G']"
+48,Dreadful as the Storm,{2}{U},3.0,['U'],['U'],['Instant'],None,,Common,,,616878,2,['U']
+82,Dunland Crebain,{2}{B},3.0,['B'],['B'],['Creature'],None,"['Bird', 'Horror']",Common,1,1,616912,2,['B']
+6,Dúnedain Blade,{1}{W},2.0,['W'],['W'],['Artifact'],None,['Equipment'],Common,,,616836,1,['W']
+160,Dúnedain Rangers,{3}{G},4.0,['G'],['G'],['Creature'],None,"['Human', 'Ranger']",Uncommon,4,4,616989,3,['G']
+851,Eagle of Deliverance,{4}{W}{W},6.0,['W'],['W'],['Creature'],None,"['Bird', 'Soldier']",Rare,5,5,636044,4,"['W', 'W']"
+7,Eagles of the North,{5}{W},6.0,['W'],['W'],['Creature'],None,"['Bird', 'Soldier']",Common,3,3,616837,5,['W']
+9,East-Mark Cavalier,{1}{W},2.0,['W'],['W'],['Creature'],None,"['Human', 'Knight']",Common,2,2,616839,1,['W']
+83,Easterling Vanguard,{1}{B},2.0,['B'],['B'],['Creature'],None,"['Human', 'Warrior']",Common,2,1,616913,1,['B']
+8,Eastfarthing Farmer,{2}{W},3.0,['W'],['W'],['Creature'],None,"['Halfling', 'Peasant']",Common,2,3,616838,2,['W']
+288,Elanor Gardner,{3}{G},4.0,['G'],['G'],['Creature'],['Legendary'],"['Halfling', 'Scout']",Rare,2,4,620041,3,['G']
+49,"Elrond, Lord of Rivendell",{2}{U},3.0,['U'],['U'],['Creature'],['Legendary'],"['Elf', 'Noble']",Uncommon,3,2,616879,2,['U']
+201,"Elrond, Master of Healing",{2}{G}{U},4.0,"['G', 'U']","['G', 'U']",['Creature'],['Legendary'],"['Elf', 'Noble']",Rare,4,4,617030,2,"['G', 'U']"
+161,Elven Chorus,{3}{G},4.0,['G'],['G'],['Enchantment'],None,,Rare,,,616990,3,['G']
+162,Elven Farsight,{G},1.0,['G'],['G'],['Sorcery'],None,,Common,,,616991,0,['G']
+285,Elvish Mariner,{2}{U},3.0,['U'],['U'],['Creature'],None,"['Elf', 'Pilot']",Rare,3,2,620038,2,['U']
+163,Enraged Huorn,{4}{G},5.0,['G'],['G'],['Creature'],None,['Treefolk'],Common,4,5,616992,4,['G']
+165,Ent's Fury,{1}{G},2.0,['G'],['G'],['Sorcery'],None,,Common,,,616994,1,['G']
+239,Ent-Draught Basin,{2},2.0,,Colorless,['Artifact'],None,,Uncommon,,,617068,2,['None']
+164,Entish Restoration,{2}{G},3.0,['G'],['G'],['Instant'],None,,Uncommon,,,616993,2,['G']
+123,Erebor Flamesmith,{1}{R},2.0,['R'],['R'],['Creature'],None,"['Dwarf', 'Artificer']",Common,2,1,616952,1,['R']
+124,"Erkenbrand, Lord of Westfold",{3}{R},4.0,['R'],['R'],['Creature'],['Legendary'],"['Human', 'Soldier']",Uncommon,3,3,616953,3,['R']
+11,Errand-Rider of Gondor,{2}{W},3.0,['W'],['W'],['Creature'],None,"['Human', 'Soldier']",Common,3,2,616841,2,['W']
+12,Escape from Orthanc,{W},1.0,['W'],['W'],['Instant'],None,,Common,,,616842,0,['W']
+13,Esquire of the King,{W},1.0,['W'],['W'],['Creature'],None,"['Human', 'Soldier']",Common,1,1,616843,0,['W']
+125,Fall of Cair Andros,{2}{R},3.0,['R'],['R'],['Enchantment'],None,,Rare,,,616954,2,['R']
+166,Fall of Gil-galad,{1}{G},2.0,['G'],['G'],['Enchantment'],None,['Saga'],Rare,,,616995,1,['G']
+167,"Fangorn, Tree Shepherd",{4}{G}{G}{G},7.0,['G'],['G'],['Creature'],['Legendary'],['Treefolk'],Rare,4,10,616996,4,"['G', 'G', 'G']"
+14,"Faramir, Field Commander",{3}{W},4.0,['W'],['W'],['Creature'],['Legendary'],"['Human', 'Soldier']",Uncommon,3,3,616844,3,['W']
+203,"Faramir, Prince of Ithilien",{2}{W}{U},4.0,"['U', 'W']","['U', 'W']",['Creature'],['Legendary'],"['Human', 'Noble']",Rare,3,3,617032,2,"['W', 'U']"
+126,"Fear, Fire, Foes!",{X}{R},1.0,['R'],['R'],['Sorcery'],None,,Uncommon,,,616955,X,['R']
+127,Fiery Inscription,{2}{R},3.0,['R'],['R'],['Enchantment'],None,,Uncommon,,,616956,2,['R']
+128,Fire of Orthanc,{3}{R},4.0,['R'],['R'],['Sorcery'],None,,Common,,,616957,3,['R']
+296,Fires of Mount Doom,{2}{R},3.0,['R'],['R'],['Enchantment'],['Legendary'],,Rare,,,620107,2,['R']
+204,Flame of Anor,{1}{U}{R},3.0,"['R', 'U']","['R', 'U']",['Instant'],None,,Rare,,,617033,1,"['U', 'R']"
+15,Flowering of the White Tree,{W}{W},2.0,['W'],['W'],['Enchantment'],['Legendary'],,Rare,,,616845,0,"['W', 'W']"
+16,Fog on the Barrow-Downs,{2}{W},3.0,['W'],['W'],['Enchantment'],None,['Aura'],Common,,,616846,2,['W']
+129,Foray of Orcs,{3}{R},4.0,['R'],['R'],['Sorcery'],None,,Uncommon,,,616958,3,['R']
+282,Forest,,0.0,,['G'],['Land'],['Basic'],['Forest'],Common,,,618927,0,['None']
+17,Forge Anew,{2}{W},3.0,['W'],['W'],['Enchantment'],None,,Rare,,,616847,2,['W']
+205,Friendly Rivalry,{R}{G},2.0,"['G', 'R']","['G', 'R']",['Instant'],None,,Uncommon,,,617034,0,"['R', 'G']"
+206,Frodo Baggins,{G}{W},2.0,"['G', 'W']","['G', 'W']",['Creature'],['Legendary'],"['Halfling', 'Scout']",Uncommon,1,3,617035,0,"['G', 'W']"
+291,"Frodo, Determined Hero",{1}{W},2.0,['W'],['W'],['Creature'],['Legendary'],"['Halfling', 'Warrior']",Rare,2,2,620102,1,['W']
+18,"Frodo, Sauron's Bane",{W},1.0,['W'],"['B', 'W']",['Creature'],['Legendary'],"['Halfling', 'Citizen']",Rare,1,2,616848,0,['W']
+168,Galadhrim Bow,{2}{G},3.0,['G'],['G'],['Artifact'],None,['Equipment'],Common,,,616997,2,['G']
+169,Galadhrim Guide,{3}{G},4.0,['G'],['G'],['Creature'],None,"['Elf', 'Scout']",Common,3,4,616998,3,['G']
+207,Galadriel of Lothlórien,{1}{G}{U},3.0,"['G', 'U']","['G', 'U']",['Creature'],['Legendary'],"['Elf', 'Noble']",Rare,3,3,617036,1,"['G', 'U']"
+298,"Galadriel, Gift-Giver",{3}{G}{G},5.0,['G'],['G'],['Creature'],['Legendary'],"['Elf', 'Noble']",Rare,4,4,620109,3,"['G', 'G']"
+208,Gandalf the Grey,{3}{U}{R},5.0,"['R', 'U']","['R', 'U']",['Creature'],['Legendary'],"['Avatar', 'Wizard']",Rare,3,4,617037,3,"['U', 'R']"
+19,Gandalf the White,{3}{W}{W},5.0,['W'],['W'],['Creature'],['Legendary'],"['Avatar', 'Wizard']",Mythic,4,5,616849,3,"['W', 'W']"
+209,Gandalf's Sanction,{1}{U}{R},3.0,"['R', 'U']","['R', 'U']",['Sorcery'],None,,Uncommon,,,617038,1,"['U', 'R']"
+50,"Gandalf, Friend of the Shire",{3}{U},4.0,['U'],['U'],['Creature'],['Legendary'],"['Avatar', 'Wizard']",Uncommon,2,4,616880,3,['U']
+292,"Gandalf, White Rider",{3}{W},4.0,['W'],['W'],['Creature'],['Legendary'],"['Avatar', 'Wizard']",Rare,3,3,620103,3,['W']
+170,Generous Ent,{5}{G},6.0,['G'],['G'],['Creature'],None,['Treefolk'],Common,5,7,616999,5,['G']
+171,Gift of Strands,{3}{G},4.0,['G'],['G'],['Enchantment'],None,['Aura'],Uncommon,,,617000,3,['G']
+131,Gimli's Axe,{2}{R},3.0,['R'],['R'],['Artifact'],None,['Equipment'],Common,,,616960,2,['R']
+132,Gimli's Fury,{1}{R},2.0,['R'],['R'],['Instant'],None,,Common,,,616961,1,['R']
+130,"Gimli, Counter of Kills",{3}{R},4.0,['R'],['R'],['Creature'],['Legendary'],"['Dwarf', 'Warrior']",Uncommon,4,3,616959,3,['R']
+210,"Gimli, Mournful Avenger",{1}{R}{G},3.0,"['G', 'R']","['G', 'R']",['Creature'],['Legendary'],"['Dwarf', 'Warrior']",Rare,3,2,617039,1,"['R', 'G']"
+240,Glamdring,{2},2.0,,Colorless,['Artifact'],['Legendary'],['Equipment'],Mythic,,,617069,2,['None']
+172,"Glorfindel, Dauntless Rescuer",{2}{G},3.0,['G'],['G'],['Creature'],['Legendary'],"['Elf', 'Noble']",Uncommon,3,2,617001,2,['G']
+51,Glorious Gale,{1}{U},2.0,['U'],['U'],['Instant'],None,,Common,,,616881,1,['U']
+133,"Glóin, Dwarf Emissary",{2}{R},3.0,['R'],['R'],['Creature'],['Legendary'],"['Dwarf', 'Advisor']",Rare,3,3,616962,2,['R']
+297,Goblin Assailant,{1}{R},2.0,['R'],['R'],['Creature'],None,"['Goblin', 'Warrior']",Common,2,2,620108,1,['R']
+134,Goblin Fireleaper,{1}{R},2.0,['R'],['R'],['Creature'],None,"['Goblin', 'Warrior']",Uncommon,1,1,616963,1,['R']
+52,"Goldberry, River-Daughter",{1}{U},2.0,['U'],['U'],['Creature'],['Legendary'],['Nymph'],Rare,1,3,616882,1,['U']
+85,Gollum's Bite,{B},1.0,['B'],['B'],['Instant'],None,,Uncommon,,,616915,0,['B']
+84,"Gollum, Patient Plotter",{1}{B},2.0,['B'],['B'],['Creature'],['Legendary'],"['Halfling', 'Horror']",Uncommon,3,1,616914,1,['B']
+294,"Gollum, Scheming Guide",{1}{B},2.0,['B'],['B'],['Creature'],['Legendary'],"['Halfling', 'Horror']",Rare,2,1,620105,1,['B']
+86,Gorbag of Minas Morgul,{1}{B},2.0,['B'],['B'],['Creature'],['Legendary'],"['Orc', 'Soldier']",Uncommon,2,2,616916,1,['B']
+87,"Gothmog, Morgul Lieutenant",{3}{B},4.0,['B'],['B'],['Creature'],['Legendary'],"['Human', 'Soldier']",Uncommon,3,3,616917,3,['B']
+256,Great Hall of the Citadel,,0.0,,Colorless,['Land'],None,,Common,,,617084,0,['None']
+53,Grey Havens Navigator,{2}{U},3.0,['U'],['U'],['Creature'],None,"['Elf', 'Pilot']",Common,3,2,616883,2,['U']
+135,"Grishnákh, Brash Instigator",{2}{R},3.0,['R'],['R'],['Creature'],['Legendary'],"['Goblin', 'Soldier']",Uncommon,1,1,616964,2,['R']
+89,"Grond, the Gatebreaker",{3}{B},4.0,['B'],['B'],['Artifact'],['Legendary'],['Vehicle'],Uncommon,5,5,616919,3,['B']
+88,Gríma Wormtongue,{2}{B},3.0,['B'],['B'],['Creature'],['Legendary'],"['Human', 'Advisor']",Uncommon,1,4,616918,2,['B']
+211,Gwaihir the Windlord,{4}{W}{U},6.0,"['U', 'W']","['U', 'W']",['Creature'],['Legendary'],"['Bird', 'Noble']",Uncommon,4,4,617040,4,"['W', 'U']"
+136,Haradrim Spearmaster,{2}{R},3.0,['R'],['R'],['Creature'],None,"['Human', 'Warrior']",Common,2,3,616965,2,['R']
+90,Haunt of the Dead Marshes,{B},1.0,['B'],['B'],['Creature'],None,"['Nightmare', 'Elf']",Common,1,1,616920,0,['B']
+137,Hew the Entwood,{3}{R}{R},5.0,['R'],['R'],['Sorcery'],None,,Mythic,,,616966,3,"['R', 'R']"
+54,Hithlain Knots,{1}{U},2.0,['U'],['U'],['Instant'],None,,Common,,,616884,1,['U']
+20,Hobbit's Sting,{1}{W},2.0,['W'],['W'],['Instant'],None,,Common,,,616850,1,['W']
+241,Horn of Gondor,{3},3.0,,Colorless,['Artifact'],['Legendary'],,Rare,,,617070,3,['None']
+242,Horn of the Mark,{2},2.0,,Colorless,['Artifact'],['Legendary'],,Rare,,,617071,2,['None']
+55,Horses of the Bruinen,{3}{U}{U},5.0,['U'],['U'],['Sorcery'],None,,Uncommon,,,616885,3,"['U', 'U']"
+138,Improvised Club,{1}{R},2.0,['R'],['R'],['Instant'],None,,Common,,,616967,1,['R']
+243,Inherited Envelope,{3},3.0,,Colorless,['Artifact'],None,,Common,,,617072,3,['None']
+56,Ioreth of the Healing House,{2}{U},3.0,['U'],['U'],['Creature'],['Legendary'],"['Human', 'Cleric']",Uncommon,1,4,616886,2,['U']
+91,Isildur's Fateful Strike,{2}{B}{B},4.0,['B'],['B'],['Instant'],['Legendary'],,Rare,,,616921,2,"['B', 'B']"
+276,Island,,0.0,,['U'],['Land'],['Basic'],['Island'],Common,,,618921,0,['None']
+57,Isolation at Orthanc,{3}{U},4.0,['U'],['U'],['Instant'],None,,Common,,,616887,3,['U']
+58,Ithilien Kingfisher,{2}{U},3.0,['U'],['U'],['Creature'],None,['Bird'],Common,2,1,616888,2,['U']
+212,King of the Oathbreakers,{2}{W}{B},4.0,"['B', 'W']","['B', 'W']",['Creature'],['Legendary'],"['Spirit', 'Noble']",Rare,3,3,617041,2,"['W', 'B']"
+293,Knight of the Keep,{2}{W},3.0,['W'],['W'],['Creature'],None,"['Human', 'Knight']",Common,3,2,620104,2,['W']
+59,Knights of Dol Amroth,{3}{U},4.0,['U'],['U'],['Creature'],None,"['Human', 'Knight']",Common,3,3,616889,3,['U']
+21,"Landroval, Horizon Witness",{4}{W},5.0,['W'],['W'],['Creature'],['Legendary'],"['Bird', 'Noble']",Uncommon,3,4,616851,4,['W']
+92,Lash of the Balrog,{B},1.0,['B'],['B'],['Sorcery'],None,,Common,,,616922,0,['B']
+173,Last March of the Ents,{6}{G}{G},8.0,['G'],['G'],['Sorcery'],None,,Mythic,,,617002,6,"['G', 'G']"
+213,"Legolas, Counter of Kills",{2}{G}{U},4.0,"['G', 'U']","['G', 'U']",['Creature'],['Legendary'],"['Elf', 'Archer']",Uncommon,2,3,617042,2,"['G', 'U']"
+174,"Legolas, Master Archer",{1}{G}{G},3.0,['G'],['G'],['Creature'],['Legendary'],"['Elf', 'Archer']",Rare,1,4,617003,1,"['G', 'G']"
+244,Lembas,{2},2.0,,Colorless,['Artifact'],None,['Food'],Common,,,617073,2,['None']
+93,Lobelia Sackville-Baggins,{2}{B},3.0,['B'],['B'],['Creature'],['Legendary'],"['Halfling', 'Citizen']",Rare,2,3,616923,2,['B']
+175,Long List of the Ents,{G},1.0,['G'],['G'],['Enchantment'],None,['Saga'],Uncommon,,,617004,0,['G']
+61,Lost Isle Calling,{1}{U},2.0,['U'],['U'],['Enchantment'],None,,Rare,,,616891,1,['U']
+22,Lost to Legend,{W}{W},2.0,['W'],['W'],['Instant'],None,,Uncommon,,,616852,0,"['W', 'W']"
+176,Lothlórien Lookout,{1}{G},2.0,['G'],['G'],['Creature'],None,"['Elf', 'Scout']",Common,1,3,617005,1,['G']
+214,"Lotho, Corrupt Shirriff",{W}{B},2.0,"['B', 'W']","['B', 'W']",['Creature'],['Legendary'],"['Halfling', 'Rogue']",Rare,2,1,617043,0,"['W', 'B']"
+60,Lórien Revealed,{3}{U}{U},5.0,['U'],['U'],['Sorcery'],None,,Common,,,616890,3,"['U', 'U']"
+177,Many Partings,{G},1.0,['G'],['G'],['Sorcery'],None,,Common,,,617006,0,['G']
+94,March from the Black Gate,{1}{B},2.0,['B'],['B'],['Enchantment'],None,,Uncommon,,,616924,1,['B']
+215,"Mauhúr, Uruk-hai Captain",{B}{R},2.0,"['B', 'R']","['B', 'R']",['Creature'],['Legendary'],"['Orc', 'Soldier']",Uncommon,2,2,617044,0,"['B', 'R']"
+62,"Meneldor, Swift Savior",{3}{U},4.0,['U'],['U'],['Creature'],['Legendary'],"['Bird', 'Soldier']",Uncommon,3,3,616892,3,['U']
+178,Meriadoc Brandybuck,{1}{G},2.0,['G'],['G'],['Creature'],['Legendary'],"['Halfling', 'Citizen']",Uncommon,2,2,617007,1,['G']
+216,"Merry, Esquire of Rohan",{R}{W},2.0,"['R', 'W']","['R', 'W']",['Creature'],['Legendary'],"['Halfling', 'Knight']",Rare,2,2,617045,0,"['R', 'W']"
+258,Minas Tirith,,0.0,,['W'],['Land'],['Legendary'],,Rare,,,617086,0,['None']
+852,Minas Tirith Garrison,{3}{U},4.0,['U'],['U'],['Creature'],None,"['Human', 'Soldier']",Rare,*,5,636045,3,['U']
+259,Mines of Moria,,0.0,,['R'],['Land'],['Legendary'],,Rare,,,617087,0,['None']
+95,Mirkwood Bats,{3}{B},4.0,['B'],['B'],['Creature'],None,['Bat'],Common,2,3,616925,3,['B']
+855,Mirkwood Channeler,{3}{G},4.0,['G'],['G'],['Creature'],None,"['Elf', 'Druid']",Rare,3,3,636048,3,['G']
+179,Mirkwood Spider,{G},1.0,['G'],['G'],['Creature'],None,['Spider'],Common,1,1,617008,0,['G']
+245,Mirror of Galadriel,{2},2.0,,Colorless,['Artifact'],['Legendary'],,Uncommon,,,617074,2,['None']
+180,Mirrormere Guardian,{2}{G},3.0,['G'],['G'],['Creature'],None,"['Dwarf', 'Soldier']",Common,4,2,617009,2,['G']
+246,Mithril Coat,{3},3.0,,Colorless,['Artifact'],['Legendary'],['Equipment'],Rare,,,617075,3,['None']
+96,Mordor Muster,{1}{B},2.0,['B'],['B'],['Sorcery'],None,,Common,,,616926,1,['B']
+97,Mordor Trebuchet,{2}{B},3.0,['B'],['B'],"['Artifact', 'Creature']",None,['Wall'],Common,1,4,616927,2,['B']
+98,Morgul-Knife Wound,{1}{B},2.0,['B'],['B'],['Enchantment'],None,['Aura'],Common,,,616928,1,['B']
+139,Moria Marauder,{R}{R},2.0,['R'],['R'],['Creature'],None,"['Goblin', 'Warrior']",Rare,1,1,616968,0,"['R', 'R']"
+260,Mount Doom,,0.0,,"['B', 'R']",['Land'],['Legendary'],,Mythic,,,617088,0,['None']
+280,Mountain,,0.0,,['R'],['Land'],['Basic'],['Mountain'],Common,,,618925,0,['None']
+181,Mushroom Watchdogs,{1}{G},2.0,['G'],['G'],['Creature'],None,['Dog'],Common,2,2,617010,1,['G']
+99,Nasty End,{1}{B},2.0,['B'],['B'],['Instant'],None,,Common,,,616929,1,['B']
+100,Nazgûl,{2}{B},3.0,['B'],['B'],['Creature'],None,"['Wraith', 'Knight']",Uncommon,1,2,616930,2,['B']
+23,Nimble Hobbit,{1}{W},2.0,['W'],['W'],['Creature'],None,"['Halfling', 'Peasant']",Common,1,3,616853,1,['W']
+63,Nimrodel Watcher,{1}{U},2.0,['U'],['U'],['Creature'],None,"['Elf', 'Scout']",Common,2,1,616893,1,['U']
+24,"Now for Wrath, Now for Ruin!",{3}{W},4.0,['W'],['W'],['Sorcery'],None,,Common,,,616854,3,['W']
+101,Oath of the Grey Host,{3}{B},4.0,['B'],['B'],['Enchantment'],None,['Saga'],Uncommon,,,616931,3,['B']
+218,Old Man Willow,{2}{B}{G},4.0,"['B', 'G']","['B', 'G']",['Creature'],['Legendary'],['Treefolk'],Uncommon,*,*,617047,2,"['B', 'G']"
+140,Oliphaunt,{5}{R},6.0,['R'],['R'],['Creature'],None,['Elephant'],Common,6,4,616969,5,['R']
+141,Olog-hai Crusher,{3}{R},4.0,['R'],['R'],['Creature'],None,"['Troll', 'Soldier']",Common,4,4,616970,3,['R']
+102,One Ring to Rule Them All,{2}{B}{B},4.0,['B'],['B'],['Enchantment'],None,['Saga'],Rare,,,616932,2,"['B', 'B']"
+103,Orcish Bowmasters,{1}{B},2.0,['B'],['B'],['Creature'],None,"['Orc', 'Archer']",Rare,1,1,616933,1,['B']
+105,Orcish Medicine,{1}{B},2.0,['B'],['B'],['Instant'],None,,Common,,,616934,1,['B']
+249,Palantír of Orthanc,{3},3.0,,Colorless,['Artifact'],['Legendary'],,Mythic,,,617077,3,['None']
+64,Pelargir Survivor,{1}{U},2.0,['U'],['U'],['Creature'],None,"['Human', 'Peasant']",Common,1,3,616894,1,['U']
+182,Peregrin Took,{2}{G},3.0,['G'],['G'],['Creature'],['Legendary'],"['Halfling', 'Citizen']",Uncommon,2,3,617011,2,['G']
+250,Phial of Galadriel,{3},3.0,,Colorless,['Artifact'],['Legendary'],,Rare,,,617078,3,['None']
+183,Pippin's Bravery,{G},1.0,['G'],['G'],['Instant'],None,,Common,,,617012,0,['G']
+219,"Pippin, Guard of the Citadel",{W}{U},2.0,"['U', 'W']","['U', 'W']",['Creature'],['Legendary'],"['Halfling', 'Soldier']",Rare,2,2,617048,0,"['W', 'U']"
+274,Plains,,0.0,,['W'],['Land'],['Basic'],['Plains'],Common,,,618919,0,['None']
+65,Press the Enemy,{2}{U}{U},4.0,['U'],['U'],['Instant'],None,,Rare,,,616895,2,"['U', 'U']"
+220,Prince Imrahil the Fair,{W}{U},2.0,"['U', 'W']","['U', 'W']",['Creature'],['Legendary'],"['Human', 'Noble']",Uncommon,2,2,617049,0,"['W', 'U']"
+25,Protector of Gondor,{3}{W},4.0,['W'],['W'],['Creature'],None,"['Human', 'Soldier']",Common,3,3,616855,3,['W']
+142,Quarrel's End,{2}{R},3.0,['R'],['R'],['Sorcery'],None,,Common,,,616971,2,['R']
+184,"Quickbeam, Upstart Ent",{4}{G}{G},6.0,['G'],['G'],['Creature'],['Legendary'],['Treefolk'],Uncommon,5,6,617013,4,"['G', 'G']"
+185,Radagast the Brown,{2}{G}{G},4.0,['G'],['G'],['Creature'],['Legendary'],"['Avatar', 'Wizard']",Mythic,2,5,617014,2,"['G', 'G']"
+143,Rally at the Hornburg,{1}{R},2.0,['R'],['R'],['Sorcery'],None,,Common,,,616972,1,['R']
+144,Ranger's Firebrand,{R},1.0,['R'],['R'],['Sorcery'],None,,Uncommon,,,616973,0,['R']
+66,Rangers of Ithilien,{2}{U}{U},4.0,['U'],['U'],['Creature'],None,"['Human', 'Ranger']",Rare,3,3,616896,2,"['U', 'U']"
+145,Relentless Rohirrim,{3}{R},4.0,['R'],['R'],['Creature'],None,"['Human', 'Knight']",Common,4,3,616974,3,['R']
+26,Reprieve,{1}{W},2.0,['W'],['W'],['Instant'],None,,Uncommon,,,616856,1,['W']
+186,Revive the Shire,{1}{G},2.0,['G'],['G'],['Sorcery'],None,,Common,,,617015,1,['G']
+854,Riders of the Mark,{6}{R},7.0,['R'],['R'],['Creature'],None,"['Human', 'Knight']",Rare,7,4,636047,6,['R']
+221,Ringsight,{1}{U}{B},3.0,"['B', 'U']","['B', 'U']",['Sorcery'],None,,Uncommon,,,617050,1,"['U', 'B']"
+286,Ringwraiths,{4}{B}{B},6.0,['B'],['B'],['Creature'],None,"['Wraith', 'Knight']",Rare,5,5,620039,4,"['B', 'B']"
+222,Rise of the Witch-king,{2}{B}{G},4.0,"['B', 'G']","['B', 'G']",['Sorcery'],None,,Uncommon,,,617051,2,"['B', 'G']"
+146,Rising of the Day,{2}{R},3.0,['R'],['R'],['Enchantment'],None,,Uncommon,,,616975,2,['R']
+261,Rivendell,,0.0,,['U'],['Land'],['Legendary'],,Rare,,,617089,0,['None']
+147,Rohirrim Lancer,{R},1.0,['R'],['R'],['Creature'],None,"['Human', 'Knight']",Common,1,1,616976,0,['R']
+27,Rosie Cotton of South Lane,{2}{W},3.0,['W'],['W'],['Creature'],['Legendary'],"['Halfling', 'Peasant']",Uncommon,1,1,616857,2,['W']
+148,Rush the Room,{R},1.0,['R'],['R'],['Instant'],None,,Common,,,616977,0,['R']
+106,Sam's Desperate Rescue,{B},1.0,['B'],['B'],['Sorcery'],None,,Common,,,616935,0,['B']
+223,Samwise Gamgee,{G}{W},2.0,"['G', 'W']","['G', 'W']",['Creature'],['Legendary'],"['Halfling', 'Peasant']",Rare,2,2,617052,0,"['G', 'W']"
+28,Samwise the Stouthearted,{1}{W},2.0,['W'],['W'],['Creature'],['Legendary'],"['Halfling', 'Peasant']",Uncommon,2,1,616858,1,['W']
+284,"Saradoc, Master of Buckland",{3}{W},4.0,['W'],['W'],['Creature'],['Legendary'],"['Halfling', 'Citizen']",Rare,2,4,620037,3,['W']
+224,Saruman of Many Colors,{3}{W}{U}{B},6.0,"['B', 'U', 'W']","['B', 'U', 'W']",['Creature'],['Legendary'],"['Avatar', 'Wizard']",Mythic,5,4,617053,3,"['W', 'U', 'B']"
+67,Saruman the White,{4}{U},5.0,['U'],['U'],['Creature'],['Legendary'],"['Avatar', 'Wizard']",Uncommon,4,4,616897,4,['U']
+68,Saruman's Trickery,{1}{U}{U},3.0,['U'],['U'],['Instant'],None,,Uncommon,,,616898,1,"['U', 'U']"
+226,Sauron's Ransom,{1}{U}{B},3.0,"['B', 'U']","['B', 'U']",['Instant'],None,,Rare,,,617055,1,"['U', 'B']"
+225,"Sauron, the Dark Lord",{3}{U}{B}{R},6.0,"['B', 'R', 'U']","['B', 'R', 'U']",['Creature'],['Legendary'],"['Avatar', 'Horror']",Mythic,7,6,617054,3,"['U', 'B', 'R']"
+290,"Sauron, the Lidless Eye",{3}{B}{R},5.0,"['B', 'R']","['B', 'R']",['Creature'],['Legendary'],"['Avatar', 'Horror']",Mythic,4,4,620183,3,"['B', 'R']"
+107,"Sauron, the Necromancer",{3}{B}{B},5.0,['B'],['B'],['Creature'],['Legendary'],"['Avatar', 'Horror']",Rare,4,4,616936,3,"['B', 'B']"
+69,Scroll of Isildur,{2}{U},3.0,['U'],['U'],['Enchantment'],None,['Saga'],Rare,,,616899,2,['U']
+29,Second Breakfast,{2}{W},3.0,['W'],['W'],['Instant'],None,,Common,,,616859,2,['W']
+227,Shadow Summoning,{W}{B},2.0,"['B', 'W']","['B', 'W']",['Sorcery'],None,,Uncommon,,,617056,0,"['W', 'B']"
+108,Shadow of the Enemy,{3}{B}{B}{B},6.0,['B'],['B'],['Sorcery'],None,,Mythic,,,616937,3,"['B', 'B', 'B']"
+228,"Shadowfax, Lord of Horses",{3}{R}{W},5.0,"['R', 'W']","['R', 'W']",['Creature'],['Legendary'],['Horse'],Uncommon,4,4,617057,3,"['R', 'W']"
+229,"Shagrat, Loot Bearer",{2}{B}{R},4.0,"['B', 'R']","['B', 'R']",['Creature'],['Legendary'],"['Orc', 'Soldier']",Rare,4,4,617058,2,"['B', 'R']"
+230,"Sharkey, Tyrant of the Shire",{2}{U}{B},4.0,"['B', 'U']","['B', 'U']",['Creature'],['Legendary'],"['Avatar', 'Rogue']",Rare,2,4,617059,2,"['U', 'B']"
+109,Shelob's Ambush,{B},1.0,['B'],['B'],['Instant'],None,,Common,,,616938,0,['B']
+231,"Shelob, Child of Ungoliant",{4}{B}{G},6.0,"['B', 'G']","['B', 'G']",['Creature'],['Legendary'],"['Spider', 'Demon']",Rare,8,8,617060,4,"['B', 'G']"
+251,Shire Scarecrow,{2},2.0,,Colorless,"['Artifact', 'Creature']",None,['Scarecrow'],Common,0,3,617079,2,['None']
+30,Shire Shirriff,{1}{W},2.0,['W'],['W'],['Creature'],None,"['Halfling', 'Soldier']",Uncommon,2,2,616860,1,['W']
+263,Shire Terrace,,0.0,,Colorless,['Land'],None,,Common,,,617091,0,['None']
+188,Shortcut to Mushrooms,{1}{G},2.0,['G'],['G'],['Enchantment'],None,,Uncommon,,,617017,1,['G']
+189,Shower of Arrows,{2}{G},3.0,['G'],['G'],['Instant'],None,,Common,,,617018,2,['G']
+31,Slip On the Ring,{1}{W},2.0,['W'],['W'],['Instant'],None,,Common,,,616861,1,['W']
+149,Smite the Deathless,{1}{R},2.0,['R'],['R'],['Instant'],None,,Common,,,616978,1,['R']
+232,"Sméagol, Helpful Guide",{1}{B}{G},3.0,"['B', 'G']","['B', 'G']",['Creature'],['Legendary'],"['Halfling', 'Horror']",Rare,4,2,617061,1,"['B', 'G']"
+110,Snarling Warg,{3}{B},4.0,['B'],['B'],['Creature'],None,['Wolf'],Common,3,4,616939,3,['B']
+32,Soldier of the Grey Host,{3}{W},4.0,['W'],['W'],['Creature'],None,"['Spirit', 'Soldier']",Common,2,2,616862,3,['W']
+70,Soothing of Sméagol,{1}{U},2.0,['U'],['U'],['Instant'],None,,Common,,,616900,1,['U']
+150,Spiteful Banditry,{X}{R}{R},2.0,['R'],['R'],['Enchantment'],None,,Mythic,,,616979,X,"['R', 'R']"
+33,Stalwarts of Osgiliath,{4}{W},5.0,['W'],['W'],['Creature'],None,"['Human', 'Soldier']",Common,4,3,616863,4,['W']
+71,Stern Scolding,{U},1.0,['U'],['U'],['Instant'],None,,Uncommon,,,616901,0,['U']
+190,Stew the Coneys,{2}{G},3.0,['G'],['G'],['Instant'],None,,Uncommon,,,617019,2,['G']
+252,"Sting, the Glinting Dagger",{2},2.0,,Colorless,['Artifact'],['Legendary'],['Equipment'],Rare,,,617080,2,['None']
+253,Stone of Erech,{1},1.0,,Colorless,['Artifact'],['Legendary'],,Uncommon,,,617081,1,['None']
+72,Storm of Saruman,{4}{U}{U},6.0,['U'],['U'],['Enchantment'],None,,Mythic,,,616902,4,"['U', 'U']"
+233,"Strider, Ranger of the North",{2}{R}{G},4.0,"['G', 'R']","['G', 'R']",['Creature'],['Legendary'],"['Human', 'Ranger']",Uncommon,4,4,617062,2,"['R', 'G']"
+73,Surrounded by Orcs,{3}{U},4.0,['U'],['U'],['Sorcery'],None,,Common,,,616903,3,['U']
+278,Swamp,,0.0,,['B'],['Land'],['Basic'],['Swamp'],Common,,,618923,0,['None']
+151,Swarming of Moria,{2}{R},3.0,['R'],['R'],['Sorcery'],None,,Common,,,616980,2,['R']
+34,Tale of Tinúviel,{3}{W}{W},5.0,['W'],['W'],['Enchantment'],None,['Saga'],Uncommon,,,616864,3,"['W', 'W']"
+196,"The Balrog, Durin's Bane",{5}{B}{R},7.0,"['B', 'R']","['B', 'R']",['Creature'],['Legendary'],"['Avatar', 'Demon']",Rare,7,5,617025,5,"['B', 'R']"
+299,"The Balrog, Flame of Udûn",{3}{B}{R},5.0,"['B', 'R']","['B', 'R']",['Creature'],['Legendary'],"['Avatar', 'Demon']",Rare,7,7,620110,3,"['B', 'R']"
+40,The Bath Song,{3}{U},4.0,['U'],['U'],['Enchantment'],None,['Saga'],Uncommon,,,616870,3,['U']
+2,The Battle of Bywater,{1}{W}{W},3.0,['W'],['W'],['Sorcery'],None,,Rare,,,616832,1,"['W', 'W']"
+78,The Black Breath,{2}{B},3.0,['B'],['B'],['Sorcery'],None,,Common,,,616908,2,['B']
+257,The Grey Havens,,0.0,,Colorless,['Land'],['Legendary'],,Uncommon,,,617085,0,['None']
+217,The Mouth of Sauron,{3}{U}{B},5.0,"['B', 'U']","['B', 'U']",['Creature'],['Legendary'],"['Human', 'Advisor']",Uncommon,3,4,617046,3,"['U', 'B']"
+247,The One Ring,{4},4.0,,Colorless,['Artifact'],['Legendary'],,Mythic,,,617076,4,['None']
+187,The Ring Goes South,{3}{G},4.0,['G'],['G'],['Sorcery'],None,,Rare,,,617016,3,['G']
+262,The Shire,,0.0,,['G'],['Land'],['Legendary'],,Rare,,,617090,0,['None']
+111,The Torment of Gollum,{3}{B},4.0,['B'],['B'],['Sorcery'],None,,Common,,,616940,3,['B']
+75,The Watcher in the Water,{3}{U}{U},5.0,['U'],['U'],['Creature'],['Legendary'],['Kraken'],Mythic,9,9,616905,3,"['U', 'U']"
+152,There and Back Again,{3}{R}{R},5.0,['R'],['R'],['Enchantment'],None,['Saga'],Rare,,,616981,3,"['R', 'R']"
+234,"Théoden, King of Rohan",{1}{R}{W},3.0,"['R', 'W']","['R', 'W']",['Creature'],['Legendary'],"['Human', 'Noble']",Uncommon,2,3,617063,1,"['R', 'W']"
+235,Tom Bombadil,{W}{U}{B}{R}{G},5.0,"['B', 'G', 'R', 'U', 'W']","['B', 'G', 'R', 'U', 'W']",['Creature'],['Legendary'],"['God', 'Bard']",Mythic,4,4,617064,0,"['W', 'U', 'B', 'R', 'G']"
+35,Took Reaper,{1}{W},2.0,['W'],['W'],['Creature'],None,"['Halfling', 'Peasant']",Common,2,1,616865,1,['W']
+400,Trailblazer's Boots,{2},2.0,,Colorless,['Artifact'],None,['Equipment'],Rare,,,619147,2,['None']
+74,Treason of Isengard,{2}{U},3.0,['U'],['U'],['Sorcery'],None,,Common,,,616904,2,['U']
+112,Troll of Khazad-dûm,{5}{B},6.0,['B'],['B'],['Creature'],None,['Troll'],Common,6,5,616941,5,['B']
+236,Uglúk of the White Hand,{2}{B}{R},4.0,"['B', 'R']","['B', 'R']",['Creature'],['Legendary'],"['Orc', 'Soldier']",Uncommon,3,3,617065,2,"['B', 'R']"
+113,Uruk-hai Berserker,{2}{B},3.0,['B'],['B'],['Creature'],None,"['Orc', 'Berserker']",Common,3,2,616942,2,['B']
+114,Voracious Fell Beast,{4}{B}{B},6.0,['B'],['B'],['Creature'],None,"['Drake', 'Beast']",Uncommon,4,4,616943,4,"['B', 'B']"
+36,War of the Last Alliance,{3}{W},4.0,['W'],['W'],['Enchantment'],None,['Saga'],Rare,,,616866,3,['W']
+153,Warbeast of Gorgoroth,{4}{R},5.0,['R'],['R'],['Creature'],None,['Beast'],Common,5,4,616982,4,['R']
+853,Warg Rider,{4}{B},5.0,['B'],['B'],['Creature'],None,"['Orc', 'Warrior']",Rare,4,3,636046,4,['B']
+37,Westfold Rider,{1}{W},2.0,['W'],['W'],['Creature'],None,"['Human', 'Knight']",Common,3,1,616867,1,['W']
+76,Willow-Wind,{4}{U},5.0,['U'],['U'],['Creature'],None,['Elemental'],Common,3,4,616906,4,['U']
+115,Witch-king of Angmar,{3}{B}{B},5.0,['B'],['B'],['Creature'],['Legendary'],"['Wraith', 'Noble']",Mythic,5,3,616944,3,"['B', 'B']"
+295,"Witch-king, Bringer of Ruin",{4}{B}{B},6.0,['B'],['B'],['Creature'],['Legendary'],"['Wraith', 'Noble']",Rare,5,3,620106,4,"['B', 'B']"
+254,Wizard's Rockets,{1},1.0,,Colorless,['Artifact'],None,,Common,,,617082,1,['None']
+191,Wose Pathfinder,{1}{G},2.0,['G'],['G'],['Creature'],None,"['Human', 'Shaman']",Common,1,1,617020,1,['G']
+38,You Cannot Pass!,{W},1.0,['W'],['W'],['Instant'],None,,Uncommon,,,616868,0,['W']
+122,Éomer of the Riddermark,{4}{R},5.0,['R'],['R'],['Creature'],['Legendary'],"['Human', 'Knight']",Uncommon,5,4,616951,4,['R']
+121,"Éomer, Marshal of Rohan",{2}{R}{R},4.0,['R'],['R'],['Creature'],['Legendary'],"['Human', 'Knight']",Rare,4,4,616950,2,"['R', 'R']"
+202,"Éowyn, Fearless Knight",{2}{R}{W},4.0,"['R', 'W']","['R', 'W']",['Creature'],['Legendary'],"['Human', 'Knight']",Rare,3,4,617031,2,"['R', 'W']"
+10,"Éowyn, Lady of Rohan",{2}{W},3.0,['W'],['W'],['Creature'],['Legendary'],"['Human', 'Noble']",Uncommon,2,4,616840,2,['W']
